@@ -3,4 +3,5 @@ In April 2024, the gender pay gap in the United Kingdom was at 7% for full-time 
 
 <img width="450" alt="Screenshot 2025-02-05 at 17 30 26" src="https://github.com/user-attachments/assets/a3df524a-8494-4930-95c0-abbf1e15969c" />
 
+
 Report, with SQL code, is [here](https://github.com/leahbenque/UK-Pay-Gap/blob/main/PayGapAnalysis.pdf)
